@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="686.613" viewBox="0 0 700 686.613">
+  <g id="Avatar" transform="translate(-625 -116)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="294" cy="294" r="294" transform="translate(737 116)" fill="#f1f0fb"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M43.015,5.367a3,3,0,0,1,5.367,0L89.226,87.055A3,3,0,0,1,86.543,91.4H4.854a3,3,0,0,1-2.683-4.342Z" transform="matrix(0.774, 0.633, -0.633, 0.774, 682.874, 674)" fill="#5e3bee"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="15" cy="15" r="15" transform="translate(1274 549)" fill="#5e3bee"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="8.5" cy="8.5" r="8.5" transform="translate(1201 183)" fill="#5e3bee"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="16.5" cy="16.5" r="16.5" transform="translate(717 394)" fill="#5e3bee"/>
+  </g>
+</svg>

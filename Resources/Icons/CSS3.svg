@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.5" height="38.567" viewBox="0 0 37.5 38.567">
+  <g id="Group_19" data-name="Group 19" transform="translate(-700 -1444.433)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="15" cy="15" r="15" transform="translate(700 1453)" fill="#f1f0fb"/>
+    <g id="Frame" transform="translate(705 1442)">
+      <path id="Vector" d="M12.044.377a3,3,0,0,1,2.913,0L26.229,6.638A1.5,1.5,0,0,1,27,7.949V20.3a3,3,0,0,1-1.543,2.622l-10.5,5.835a3,3,0,0,1-2.913,0l-10.5-5.835A3,3,0,0,1,0,20.3V7.949A1.5,1.5,0,0,1,.771,6.638L12.045.377Z" transform="translate(4.5 3.433)" fill="none" stroke="#5e3bee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0,13.5,7.5ZM13.5,7.5,27,0Zm0,0V21.75" transform="translate(4.5 10.5)" fill="none" stroke="#5e3bee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-3" data-name="Vector" d="M0,7.5,13.5,0" transform="translate(11.25 6.75)" fill="none" stroke="#5e3bee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0,4.5,2.508" transform="translate(9 18.492)" fill="none" stroke="#5e3bee" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
